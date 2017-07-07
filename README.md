@@ -6,7 +6,7 @@ Description:
 
 Plugin [jarvis](https://github.com/alexylem/jarvis)
 
-Donne la capacité a jarvis d'agir sur d'autres équipements grâce à des requettes ssh.
+Donne la capacité à Jarvis d'agir sur d'autres équipements grâce à des requêtes SSH.
  
 
 Usage:
